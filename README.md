@@ -159,6 +159,5 @@ Academic use only - Individual Assignment for NLP Course
 
 ## Author
 
-[Your Name]  
-NLP Course - Semester 7  
-[Your University]
+Gavind Pramahita 
+(22/497221/TK/54484)

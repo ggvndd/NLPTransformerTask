@@ -5,8 +5,8 @@ Transformer Architecture Implementation from Scratch using NumPy
 This module implements a complete GPT-style decoder-only Transformer
 architecture using only NumPy for mathematical operations.
 
-Author: Your Name
-Course: NLP - Individual Assignment
+Author: Gavind Muhammad Pramahita
+Course: Natural Language Processing - Individual Assignment
 """
 
 import numpy as np
